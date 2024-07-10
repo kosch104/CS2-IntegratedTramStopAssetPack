@@ -23,6 +23,10 @@
         <AssemblyVersion>1.0.0</AssemblyVersion>
 
         <FileVersion>1.0.0</FileVersion>
+
+        <AssemblyName>IntegratedTramStop</AssemblyName>
+
+        <RootNamespace>IntegratedTramStop</RootNamespace>
     </PropertyGroup>
     
     <!--Imports must be after PropertyGroup block-->
@@ -74,10 +78,6 @@
     <ItemGroup>
         <None Include="$(ModPropsFile)" Link="Properties\Mod.props"/>
         <None Include="$(ModTargetsFile)" Link="Properties\Mod.targets"/>
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Resources\assets\ExamplePack\" />
     </ItemGroup>
 
     <Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">

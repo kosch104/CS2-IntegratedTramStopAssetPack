@@ -1,4 +1,4 @@
 {
-  "Assets.NAME[CarProp]": "CarProp",
-  "Assets.DESCRIPTION[CarProp]": "A small car prop without any functionality"
+  "Assets.NAME[Integrated Tram Stop]": "Integrated Tram Stop",
+  "Assets.DESCRIPTION[CarProp]": "An invisible tram stop. Must be placed on tram tracks."
 }

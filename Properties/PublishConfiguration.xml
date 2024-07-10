@@ -1,19 +1,15 @@
 <Publish>
   <ModId Value="" />
-  <DisplayName Value="Example Pack (do not subscribe)" />
-  <ShortDescription Value="Example Pack Description" />
-  <LongDescription>## Asset Pack Name
-This asset packs adds xxx and yyy to the game
-
-## Added Assets:
-- Asset 1
-- Asset 2
-- Asset 3 (special)</LongDescription>
+  <DisplayName Value="Integrated Tram Stop" />
+  <ShortDescription Value="Adds an integrated tram stop similar to the other integrated public transport stops" />
+  <LongDescription>## Integrated Tram Stop
+This asset packs an integrated tram stop. It works like all other integrated stops and is invisible.
+  </LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <Screenshot Value="" />
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
-  <ModVersion Value="1.0" />
+  <ModVersion Value="1.0.0" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
   <ChangeLog>Initial release</ChangeLog>
